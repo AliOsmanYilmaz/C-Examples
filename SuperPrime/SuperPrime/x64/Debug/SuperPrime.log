@@ -1,0 +1,4 @@
+﻿  SuperPrime.cpp
+C:\Users\alios\source\repos\SuperPrime\SuperPrime\SuperPrime.cpp(105,16): warning C4101: 'root2': unreferenced local variable
+C:\Users\alios\source\repos\SuperPrime\SuperPrime\SuperPrime.cpp(105,9): warning C4101: 'root1': unreferenced local variable
+  SuperPrime.vcxproj -> C:\Users\alios\source\repos\SuperPrime\x64\Debug\SuperPrime.exe
